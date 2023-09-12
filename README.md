@@ -1,4 +1,4 @@
-# Spotify Clone 🐦
+# API node 🐦
 
 ### Projeto ⚒️
 - O objetivo deste projeto é criar uma API usando Nodejs, Prisma e Jest.
