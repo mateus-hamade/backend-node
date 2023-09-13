@@ -6,6 +6,7 @@
 ### Ferramentas utilizadas ⛏️
 - Prisma (ORM)
 - Jest (Tests)
+- Neon (https://neon.tech/)
 - Node
 
 ### Executando o código
